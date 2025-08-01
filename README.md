@@ -1,2 +1,0 @@
-# melianimedcbot
-discord botu mikasa
